@@ -46,7 +46,7 @@
     "rxjs": "6.3.3",
     "snarkdown": "^1.2.2",
     "socket.io-client": "^2.2.0",
-    "typescript": "~3.2.4",
+    "typescript": "~3.9.10",
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
