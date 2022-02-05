@@ -91,7 +91,7 @@
     "express-rate-limit": "^4.0.1",
     "express-robots-txt": "^0.4.0",
     "express-security.txt": "^2.0.0",
-    "file-stream-rotator": "^0.4.1",
+    "file-stream-rotator": "^0.5.7",
     "finale-rest": "^1.0.3",
     "file-type": "^11.1.0",
     "fs-extra": "^8.0.1",
